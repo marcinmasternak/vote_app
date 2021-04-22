@@ -1,0 +1,6 @@
+{
+"abi_path"		:	 "abi.txt", 
+"bytecode_path"	:	 "bytecode.txt", 
+"provider"		:	 "http://127.0.0.1:8545",
+"gas"			:	 1500000
+}
